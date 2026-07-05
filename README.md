@@ -54,8 +54,6 @@ npm run dev
 *(The frontend will be available at `http://localhost:5173`)*
 
 ## 🤝 Team Members
-- Divya Seeli
-- Sri Hasini Koppula
 - Navya Sri
 
 ---
