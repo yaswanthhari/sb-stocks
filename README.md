@@ -4,6 +4,13 @@
 
 SB Stocks is a full-stack web application designed for stock market enthusiasts who want to practice and improve their trading skills without any financial risk. It provides a realistic paper trading experience with a modern, dynamic, and premium user interface.
 
+## 🌟 Live Demo
+
+The application is deployed and live! You can visit it here:
+**[Insert Your Vercel Link Here]**
+
+*(Note: The backend is hosted on a free Render tier, so it may take ~50 seconds to spin up when you first visit the site if it has been asleep).*
+
 ## 🚀 Features
 
 - **Paper Trading:** Start with $100,000 in virtual funds and practice buying/selling stocks.
