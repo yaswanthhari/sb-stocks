@@ -7,7 +7,7 @@ SB Stocks is a full-stack web application designed for stock market enthusiasts 
 ## 🌟 Live Demo
 
 The application is deployed and live! You can visit it here:
-**[https://sb-stocks-qb061794g-yaswanthharis-projects.vercel.app](https://sb-stocks-qb061794g-yaswanthharis-projects.vercel.app)**
+**[https://sb-stocks-seven.vercel.app](https://sb-stocks-seven.vercel.app)**
 
 *(Note: The backend is hosted on a free Render tier, so it may take ~50 seconds to spin up when you first visit the site if it has been asleep).*
 
